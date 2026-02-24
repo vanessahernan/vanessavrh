@@ -1,4 +1,4 @@
-## Hola, soy Vanessa! 👋
+## Hola, soy Vanessa Ramirez! 👋
 
 ### 👩‍💻 Junior Frontend Developer
 Soy una desarrolladora con una fuerte preferencia por el **Frontend**. Me encanta crear interfaces limpias, intuitivas y centradas en el usuario. Actualmente, busco **oportunidades remotas** donde pueda aportar a proyectos significativos y seguir creciendo.
@@ -11,3 +11,5 @@ Soy una desarrolladora con una fuerte preferencia por el **Frontend**. Me encant
 - **Lenguajes:** JavaScript, Python, HTML5, CSS3.
 - **Frameworks/Librerías:** React, Vue.js, Tailwind CSS.
 - **Herramientas:** Git, GitHub.
+
+- Puedes conocerme un poco mas visitando mi Portfolio https://vanessa-dev.netlify.app
